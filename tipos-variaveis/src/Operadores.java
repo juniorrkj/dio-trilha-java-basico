@@ -32,7 +32,7 @@ public class Operadores {
 
         // Operadores Lógicos
         boolean e = (10 > 5) && (5 < 10);
-        boolean ou = (10 > 5) || (5 > 10);
+        boolean ou = (10 > 5);
         boolean nao = !(10 > 5);
 
         System.out.println("\nLógicos:");
